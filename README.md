@@ -25,6 +25,6 @@ Change constants for your requirements.
 
 ### Known bugs
 * First page is empty
-* Page format is A3, which is quite big for
+* Page format is A3, which is quite big for most books.
 
 Feel free to contribute :)
